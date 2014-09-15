@@ -1,3 +1,4 @@
+import simplejson
 import time
 def sleeper():
     while True:
