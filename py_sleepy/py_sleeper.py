@@ -1,4 +1,5 @@
 import simplejson
+import tweepy
 import time
 def sleeper():
     while True:
