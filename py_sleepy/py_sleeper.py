@@ -7,6 +7,7 @@ def sleeper():
         time.sleep(3)
         print "Wake up! for 1.."
         time.sleep(1)
+        print "this is fun"
 
 if __name__ == "__main__":
     sleeper()
